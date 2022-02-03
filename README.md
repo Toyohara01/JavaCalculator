@@ -2,6 +2,6 @@
 
 Basic command line calculator
 
-This is a fun project I am working on to get a better understanding of Java and the usage of github
+This is a fun project I am working on to get a better understanding of Java and the usage of github.
 
-This project is going to be run on a Rasberry Pi 3
+This project is going to be run on an Ubuntu OS.
